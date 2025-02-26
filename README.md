@@ -34,7 +34,8 @@ Interactive Filters/Slicers by Year and Month
 ✅ Dynamic Filters for Customized Time-Based Analysis
 
 
-🔍 Exploratory Data Analysis (EDA) [pandas]
+🔍 Exploratory Data Analysis (EDA) [pandas]:
+
 Initial data exploration was performed using the pandas Python package for faster and more efficient handling of large datasets. Key checks included:
 
 Identifying missing, unusual, and incorrect values (e.g., negative sales).
@@ -43,24 +44,26 @@ Understanding the range and distribution of values.
 
 EDA steps are documented in the data-exploration.ipynb notebook.
 
-🧹 Data Cleaning & Transformation [Power Query Editor]
+
+🧹 Data Cleaning & Transformation [Power Query Editor]:
 Minimal cleaning was required as the dataset was well-structured. Key actions included:
 
 Standardizing column names.
 Assigning correct data types.
 
 
-📊 Data Model Creation [Power BI Desktop]
+📊 Data Model Creation [Power BI Desktop]:
 A star schema was built by separating dimensions (categorical) and facts (numeric), enabling efficient data relationships and better performance.
 
 
 📊 Report Descriptions
-✔ Executive Summary Report (Sales Overview) 
+
+✔ Executive Summary Report (Sales Overview):
 Provides a high-level overview of overall sales performance, offering key insights by year, month, customer city, channel, and sub-channel.
 
-✔ Distributor & Customer Analysis Report 
+✔ Distributor & Customer Analysis Report:
 Delivers a detailed breakdown of sales from the distributor and customer perspectives. Includes drill-down capabilities to analyze sales by product.
 
-✔ Sales Team Performance Report 
+✔ Sales Team Performance Report:
 Analyzes the sales team’s performance, with insights on sales by product class and specific products. Includes drill-downs and time-based filters (year/month).
 
