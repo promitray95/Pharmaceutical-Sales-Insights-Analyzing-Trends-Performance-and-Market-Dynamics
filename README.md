@@ -3,7 +3,7 @@
 For this project, we’ve been tasked with analyzing a global pharmaceutical manufacturing company's raw sales data and drawing meaningful insights. This project addresses the needs of key stakeholders (Executive Committee, Sales Managers, and Head of Sales) through detailed visualizations and reports.
 
 📌 Project Objectives:
-# 1. Executive Committee Dashboard
+### 1. Executive Committee Dashboard
 High-level overview of sales performance by:
 Year & Month
 Customer Cities
@@ -13,13 +13,13 @@ Top Drug Class by Sales
 Top Drug by Sales
 Top Customer City by Sales
 
-# 2. Sales Manager/Sales Rep Dashboard 
+### 2. Sales Manager/Sales Rep Dashboard 
 Detailed breakdown of:
 Sales by Distributors & Products
 Top 5 Products, Customers, and Cities
 Channel & Sub-Channel Sales
 
-# 3. Head of Sales Dashboard 
+### 3. Head of Sales Dashboard 
 In-depth analysis of:
 Sales by Sales-Team & Product
 Sales by Sales-Team & Product Class
